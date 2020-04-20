@@ -1,0 +1,124 @@
+Added Component: Designator=D1(LED0805ÂÌ)
+Added Component: Designator=D2(LED0805ÂÌ)
+Added Component: Designator=LS1(·äÃùÆ÷)
+Added Component: Designator=P1(ÌùÆ¬5Ïò°´¼ü)
+Added Component: Designator=P2(FPC20Pin)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R3(R0805)
+Added Component: Designator=R4(R0805)
+Added Component: Designator=R5(R0805)
+Added Component: Designator=R6(R0805)
+Added Component: Designator=R7(R0805)
+Added Component: Designator=R8(R0805)
+Added Component: Designator=R9(R0805)
+Added Component: Designator=R10(R0805)
+Added Component: Designator=R11(R0805)
+Added Component: Designator=R12(R0805)
+Added Component: Designator=R13(R0805)
+Added Component: Designator=R14(R0805)
+Added Component: Designator=R15(R0805)
+Added Component: Designator=S1(ÌùÆ¬°´¼ü)
+Added Component: Designator=S2(ÌùÆ¬°´¼ü)
+Added Component: Designator=S3(²¦Âë¿ª¹Ø4)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=V20 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=W20 Pin=D2-2
+Added Pin To Net: NetName=VCC_3V3 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=N20 Pin=P1-1
+Added Pin To Net: NetName=P20 Pin=P1-2
+Added Pin To Net: NetName=T20 Pin=P1-3
+Added Pin To Net: NetName=U20 Pin=P1-4
+Added Pin To Net: NetName=DGND Pin=P1-5
+Added Pin To Net: NetName=T17 Pin=P1-6
+Added Pin To Net: NetName=VCC_3V3 Pin=P2-1
+Added Pin To Net: NetName=VCC_3V3 Pin=P2-2
+Added Pin To Net: NetName=DGND Pin=P2-4
+Added Pin To Net: NetName=DGND Pin=P2-5
+Added Pin To Net: NetName=N20 Pin=P2-7
+Added Pin To Net: NetName=P20 Pin=P2-8
+Added Pin To Net: NetName=T20 Pin=P2-9
+Added Pin To Net: NetName=U20 Pin=P2-10
+Added Pin To Net: NetName=T17 Pin=P2-11
+Added Pin To Net: NetName=R18 Pin=P2-12
+Added Pin To Net: NetName=V20 Pin=P2-13
+Added Pin To Net: NetName=W20 Pin=P2-14
+Added Pin To Net: NetName=N17 Pin=P2-15
+Added Pin To Net: NetName=P18 Pin=P2-16
+Added Pin To Net: NetName=W18 Pin=P2-17
+Added Pin To Net: NetName=W19 Pin=P2-18
+Added Pin To Net: NetName=Y18 Pin=P2-19
+Added Pin To Net: NetName=Y19 Pin=P2-20
+Added Pin To Net: NetName=R18 Pin=Q1-B
+Added Pin To Net: NetName=NetLS1_2 Pin=Q1-C
+Added Pin To Net: NetName=NetQ1_E Pin=Q1-E
+Added Pin To Net: NetName=VCC_3V3 Pin=R1-1
+Added Pin To Net: NetName=N17 Pin=R1-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R2-1
+Added Pin To Net: NetName=P18 Pin=R2-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R3-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R4-1
+Added Pin To Net: NetName=NetD2_1 Pin=R4-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R5-1
+Added Pin To Net: NetName=N20 Pin=R5-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R6-1
+Added Pin To Net: NetName=P20 Pin=R6-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R7-1
+Added Pin To Net: NetName=T20 Pin=R7-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R8-1
+Added Pin To Net: NetName=U20 Pin=R8-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R9-1
+Added Pin To Net: NetName=T17 Pin=R9-2
+Added Pin To Net: NetName=W18 Pin=R10-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R10-2
+Added Pin To Net: NetName=W19 Pin=R11-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R11-2
+Added Pin To Net: NetName=Y18 Pin=R12-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R12-2
+Added Pin To Net: NetName=Y19 Pin=R13-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R13-2
+Added Pin To Net: NetName=DGND Pin=R14-1
+Added Pin To Net: NetName=R18 Pin=R14-2
+Added Pin To Net: NetName=DGND Pin=R15-1
+Added Pin To Net: NetName=NetQ1_E Pin=R15-2
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=N17 Pin=S1-2
+Added Pin To Net: NetName=DGND Pin=S2-1
+Added Pin To Net: NetName=P18 Pin=S2-2
+Added Pin To Net: NetName=W18 Pin=S3-1
+Added Pin To Net: NetName=W19 Pin=S3-2
+Added Pin To Net: NetName=Y18 Pin=S3-3
+Added Pin To Net: NetName=Y19 Pin=S3-4
+Added Pin To Net: NetName=DGND Pin=S3-5
+Added Pin To Net: NetName=DGND Pin=S3-6
+Added Pin To Net: NetName=DGND Pin=S3-7
+Added Pin To Net: NetName=DGND Pin=S3-8
+Added Member To Class: ClassName=Sheet2 Member=Component D1 LED
+Added Member To Class: ClassName=Sheet2 Member=Component D2 LED
+Added Member To Class: ClassName=Sheet2 Member=Component LS1 Beep
+Added Member To Class: ClassName=Sheet2 Member=Component P1 KEY
+Added Member To Class: ClassName=Sheet2 Member=Component P2 Header 22
+Added Member To Class: ClassName=Sheet2 Member=Component Q1 2N3904
+Added Member To Class: ClassName=Sheet2 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R3 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R4 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R5 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R6 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R7 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R8 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R9 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R10 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R11 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R12 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R13 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R14 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R15 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component S1 SW-PB
+Added Member To Class: ClassName=Sheet2 Member=Component S2 SW-PB
+Added Member To Class: ClassName=Sheet2 Member=Component S3 SW-DIP4
+Added Room: Name=Sheet2
