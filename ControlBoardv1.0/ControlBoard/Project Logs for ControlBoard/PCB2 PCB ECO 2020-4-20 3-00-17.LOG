@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=R18 Pin=Q1-B
-Added Pin To Net: NetName=NetLS1_2 Pin=Q1-C
-Added Pin To Net: NetName=NetQ1_E Pin=Q1-E
-Added Pin To Net: NetName=NetQ1_E Pin=R15-2
-Added Net: Name=NetQ1_E
