@@ -9,17 +9,17 @@ This is camera hardware file for my stereo vision project.
 * 基于OV5640传感器
 * 基线可调范围4.5cm至26cm
 
-![image](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/stereover1.png)
+![stereover1](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/stereover1.png)
 
 ## 双目标尺版 Version2.0
 * update：将接口改为BTB连接器
 
-![image](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/stereover2.png)
+![stereover2](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/stereover2.png)
 
 ## 摄像头移动基板
 
-![image](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/baseboard.png)
+![baseboard](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/baseboard.png)
 
 ## 调试控制板
 
-![image](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/controlboard.png)
+![controlboard](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/controlboard.png)
