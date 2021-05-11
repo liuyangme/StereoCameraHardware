@@ -1,25 +1,31 @@
 # Stereo-Camera-HW
 This is camera hardware file for my stereo vision project.
 
-ÕâÊÇË«Ä¿ÊÓ¾õÏîÄ¿ÖĞÉè¼ÆµÄË«Ä¿²É¼¯ÏµÍ³
+è¿™æ˜¯åŒç›®è§†è§‰é¡¹ç›®ä¸­è®¾è®¡çš„åŒç›®é‡‡é›†ç³»ç»Ÿ
 
-* Éè¼ÆÈí¼ş£ºAltiumDesigner15
+* è®¾è®¡è½¯ä»¶ï¼šAltiumDesigner15
 
-## Ë«Ä¿±ê³ß°å Version1.0
-* »ùÓÚOV5640´«¸ĞÆ÷
-* »ùÏß¿Éµ÷·¶Î§4.5cmÖÁ26cm
+## åŒç›®æ ‡å°ºæ¿ Version1.0
+* åŸºäºOV5640ä¼ æ„Ÿå™¨
+* åŸºçº¿å¯è°ƒèŒƒå›´4.5cmè‡³26cm
 
 ![stereover1](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/stereover1.png)
 
-## Ë«Ä¿±ê³ß°æ Version2.0
-* update£º½«½Ó¿Ú¸ÄÎªBTBÁ¬½ÓÆ÷
+## åŒç›®æ ‡å°ºç‰ˆ Version2.0
+* updateï¼šå°†æ¥å£æ”¹ä¸ºBTBè¿æ¥å™¨
 
 ![stereover2](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/stereover2.png)
 
-## ÉãÏñÍ·ÒÆ¶¯»ù°å
+## æ‘„åƒå¤´ç§»åŠ¨åŸºæ¿
 
 ![baseboard](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/baseboard.png)
 
-## µ÷ÊÔ¿ØÖÆ°å
+## è°ƒè¯•æ§åˆ¶æ¿
 
 ![controlboard](https://github.com/liuyang9609/Stereo-Camera-HW/blob/master/ReadmeImg/controlboard.png)
+
+Emailï¼šliuyang9609@gmail.com
+
+**Copyright Â© 2021, LiuYang. All Rights Reserved. 
+
+This project is free software and released under the MIT License.
