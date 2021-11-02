@@ -1,0 +1,901 @@
+Protel Design System Design Rule Check
+PCB File : E:\Project\Doing\StereoMatching\StereoCameraHardware\Zu7OV5640CamV3.0\PCB1.PcbDoc
+Date     : 2021/11/1
+Time     : 23:57:09
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=200mm) (Preferred=0.127mm) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Text "P2" (70.5mm,128.2mm)  Bottom Overlay and 
+                     Track (66.1mm,127.85mm)(73.85mm,127.85mm)  Bottom Overlay
+   Violation between Text "P7" (94.625mm,106.575mm)  Bottom Overlay and 
+                     Track (94.742mm,107.887mm)(94.742mm,111.787mm)  Bottom Overlay
+   Violation between Text "P7" (94.625mm,106.575mm)  Bottom Overlay and 
+                     Track (91.287mm,107.887mm)(94.742mm,107.887mm)  Bottom Overlay
+   Violation between Text "P4" (94.25mm,124.175mm)  Bottom Overlay and 
+                     Track (91.287mm,123.812mm)(94.742mm,123.812mm)  Bottom Overlay
+   Violation between Text "C2" (86.6mm,115mm)  Bottom Overlay and 
+                     Track (87.022mm,114.536mm)(87.022mm,116.314mm)  Bottom Overlay
+   Violation between Text "P5" (90.75mm,116.725mm)  Bottom Overlay and 
+                     Track (90.578mm,114.536mm)(90.578mm,116.314mm)  Bottom Overlay
+   Violation between Text "P5" (90.75mm,116.725mm)  Bottom Overlay and 
+                     Track (89.562mm,116.314mm)(90.578mm,116.314mm)  Bottom Overlay
+   Violation between Text "C1" (86.525mm,122mm)  Bottom Overlay and 
+                     Track (86.997mm,121.486mm)(86.997mm,123.264mm)  Bottom Overlay
+   Violation between Text "R2" (86.6mm,112.9mm)  Bottom Overlay and 
+                     Track (87.022mm,112.461mm)(87.022mm,114.239mm)  Bottom Overlay
+   Violation between Text "F1" (82.15mm,130.85mm)  Bottom Overlay and 
+                     Track (82.238mm,128.484mm)(82.238mm,130.516mm)  Bottom Overlay
+   Violation between Text "F1" (82.15mm,130.85mm)  Bottom Overlay and 
+                     Track (81.222mm,130.516mm)(82.238mm,130.516mm)  Bottom Overlay
+   Violation between Text "C8" (91.15mm,103.334mm)  Top Overlay and 
+                     Track (91.111mm,102.021mm)(91.111mm,103.037mm)  Top Overlay
+   Violation between Text "C8" (91.15mm,103.334mm)  Top Overlay and 
+                     Track (92.889mm,102.021mm)(92.889mm,103.037mm)  Top Overlay
+   Violation between Text "C8" (91.15mm,103.334mm)  Top Overlay and 
+                     Track (91.111mm,103.037mm)(92.889mm,103.037mm)  Top Overlay
+   Violation between Text "C7" (89.15mm,103.309mm)  Top Overlay and 
+                     Track (89.086mm,101.971mm)(89.086mm,102.987mm)  Top Overlay
+   Violation between Text "C7" (89.15mm,103.309mm)  Top Overlay and 
+                     Track (89.086mm,102.987mm)(90.864mm,102.987mm)  Top Overlay
+   Violation between Text "C10" (86.75mm,98.084mm)  Top Overlay and 
+                     Track (89.086mm,99.431mm)(90.864mm,99.431mm)  Top Overlay
+   Violation between Text "C10" (86.75mm,98.084mm)  Top Overlay and 
+                     Track (89.086mm,99.431mm)(89.086mm,100.447mm)  Top Overlay
+   Violation between Text "C10" (86.75mm,98.084mm)  Top Overlay and 
+                     Track (87.061mm,99.431mm)(88.839mm,99.431mm)  Top Overlay
+   Violation between Text "C10" (86.75mm,98.084mm)  Top Overlay and 
+                     Track (87.061mm,99.431mm)(87.061mm,100.447mm)  Top Overlay
+   Violation between Text "C10" (86.75mm,98.084mm)  Top Overlay and 
+                     Track (88.839mm,99.431mm)(88.839mm,100.447mm)  Top Overlay
+   Violation between Text "C9" (85.125mm,103.309mm)  Top Overlay and 
+                     Track (85.036mm,101.971mm)(85.036mm,102.987mm)  Top Overlay
+   Violation between Text "C9" (85.125mm,103.309mm)  Top Overlay and 
+                     Track (86.814mm,101.971mm)(86.814mm,102.987mm)  Top Overlay
+   Violation between Text "C9" (85.125mm,103.309mm)  Top Overlay and 
+                     Track (85.036mm,102.987mm)(86.814mm,102.987mm)  Top Overlay
+   Violation between Text "C10" (86.75mm,98.084mm)  Top Overlay and 
+                     Track (85.036mm,99.431mm)(86.814mm,99.431mm)  Top Overlay
+   Violation between Text "C10" (86.75mm,98.084mm)  Top Overlay and 
+                     Track (86.814mm,99.431mm)(86.814mm,100.447mm)  Top Overlay
+   Violation between Text "R3" (90.775mm,129.4mm)  Top Overlay and 
+                     Track (90.686mm,129.053mm)(92.464mm,129.053mm)  Top Overlay
+   Violation between Text "R3" (90.775mm,129.4mm)  Top Overlay and 
+                     Track (92.464mm,128.037mm)(92.464mm,129.053mm)  Top Overlay
+   Violation between Text "R3" (90.775mm,129.4mm)  Top Overlay and 
+                     Track (90.686mm,128.037mm)(90.686mm,129.053mm)  Top Overlay
+   Violation between Text "R3" (90.775mm,129.4mm)  Top Overlay and 
+                     Track (88.661mm,129.053mm)(90.439mm,129.053mm)  Top Overlay
+   Violation between Text "C6" (88.7mm,129.35mm)  Top Overlay and 
+                     Track (88.661mm,129.053mm)(90.439mm,129.053mm)  Top Overlay
+   Violation between Text "R3" (90.775mm,129.4mm)  Top Overlay and 
+                     Track (90.439mm,128.037mm)(90.439mm,129.053mm)  Top Overlay
+   Violation between Text "C6" (88.7mm,129.35mm)  Top Overlay and 
+                     Track (90.439mm,128.037mm)(90.439mm,129.053mm)  Top Overlay
+   Violation between Text "C6" (88.7mm,129.35mm)  Top Overlay and 
+                     Track (88.661mm,128.037mm)(88.661mm,129.053mm)  Top Overlay
+   Violation between Text "C5" (86.675mm,129.35mm)  Top Overlay and 
+                     Track (86.586mm,129.053mm)(88.364mm,129.053mm)  Top Overlay
+   Violation between Text "C5" (86.675mm,129.35mm)  Top Overlay and 
+                     Track (88.364mm,128.037mm)(88.364mm,129.053mm)  Top Overlay
+   Violation between Text "C5" (86.675mm,129.35mm)  Top Overlay and 
+                     Track (86.586mm,128.037mm)(86.586mm,129.053mm)  Top Overlay
+   Violation between Text "C4" (82.625mm,129.416mm)  Top Overlay and 
+                     Track (82.511mm,129.078mm)(84.289mm,129.078mm)  Top Overlay
+   Violation between Text "C4" (82.625mm,129.416mm)  Top Overlay and 
+                     Track (84.289mm,128.062mm)(84.289mm,129.078mm)  Top Overlay
+   Violation between Text "C4" (82.625mm,129.416mm)  Top Overlay and 
+                     Track (82.511mm,128.062mm)(82.511mm,129.078mm)  Top Overlay
+   Violation between Text "C3" (84.625mm,129.391mm)  Top Overlay and 
+                     Track (84.561mm,129.053mm)(86.339mm,129.053mm)  Top Overlay
+   Violation between Text "C3" (84.625mm,129.391mm)  Top Overlay and 
+                     Track (86.339mm,128.037mm)(86.339mm,129.053mm)  Top Overlay
+   Violation between Text "C3" (84.625mm,129.391mm)  Top Overlay and 
+                     Track (84.561mm,128.037mm)(84.561mm,129.053mm)  Top Overlay
+   Violation between Text "D1" (93mm,129.375mm)  Top Overlay and 
+                     Track (92.736mm,128.037mm)(92.736mm,129.053mm)  Top Overlay
+   Violation between Text "D1" (93mm,129.375mm)  Top Overlay and 
+                     Track (92.736mm,129.053mm)(94.514mm,129.053mm)  Top Overlay
+   Violation between Text "D1" (93mm,129.375mm)  Top Overlay and 
+                     Track (94.514mm,128.037mm)(94.514mm,129.053mm)  Top Overlay
+   Violation between Text "U2" (86.875mm,107.775mm)  Top Overlay and 
+                     Track (86.835mm,109.246mm)(90.265mm,109.246mm)  Top Overlay
+   Violation between Text "U2" (86.875mm,107.775mm)  Top Overlay and 
+                     Track (86.835mm,109.246mm)(86.835mm,115.746mm)  Top Overlay
+   Violation between Text "C7" (89.15mm,103.309mm)  Top Overlay and 
+                     Text "C8" (91.15mm,103.334mm)  Top Overlay
+   Violation between Text "C6" (88.7mm,129.35mm)  Top Overlay and 
+                     Text "R3" (90.775mm,129.4mm)  Top Overlay
+   Violation between Text "C5" (86.675mm,129.35mm)  Top Overlay and 
+                     Text "C6" (88.7mm,129.35mm)  Top Overlay
+   Violation between Text "C3" (84.625mm,129.391mm)  Top Overlay and 
+                     Text "C5" (86.675mm,129.35mm)  Top Overlay
+   Violation between Text "C3" (84.625mm,129.391mm)  Top Overlay and 
+                     Text "C4" (82.625mm,129.416mm)  Top Overlay
+Rule Violations :53
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Track (86.997mm,119.386mm)(86.997mm,121.164mm)  Bottom Overlay and 
+                     Pad R1-2(87.759mm,120.275mm)  Solder Side
+   Violation between Track (86.997mm,119.386mm)(88.013mm,119.386mm)  Bottom Overlay and 
+                     Pad R1-2(87.759mm,120.275mm)  Solder Side
+   Violation between Track (86.997mm,121.164mm)(88.013mm,121.164mm)  Bottom Overlay and 
+                     Pad R1-2(87.759mm,120.275mm)  Solder Side
+   Violation between Track (89.537mm,119.386mm)(90.553mm,119.386mm)  Bottom Overlay and 
+                     Pad R1-1(89.791mm,120.275mm)  Solder Side
+   Violation between Track (89.537mm,121.164mm)(90.553mm,121.164mm)  Bottom Overlay and 
+                     Pad R1-1(89.791mm,120.275mm)  Solder Side
+   Violation between Track (90.553mm,119.386mm)(90.553mm,121.164mm)  Bottom Overlay and 
+                     Pad R1-1(89.791mm,120.275mm)  Solder Side
+   Violation between Track (91.287mm,111.887mm)(91.287mm,115.787mm)  Bottom Overlay and 
+                     Pad P6-5(92.049mm,114.237mm)  Solder Side
+   Violation between Track (91.287mm,111.887mm)(91.287mm,115.787mm)  Bottom Overlay and 
+                     Pad P6-1(92.049mm,112.637mm)  Solder Side
+   Violation between Track (91.287mm,111.887mm)(91.287mm,115.787mm)  Bottom Overlay and 
+                     Pad P6-3(92.049mm,113.437mm)  Solder Side
+   Violation between Track (91.287mm,111.887mm)(91.287mm,115.787mm)  Bottom Overlay and 
+                     Pad P6-7(92.049mm,115.037mm)  Solder Side
+   Violation between Track (94.742mm,111.887mm)(94.742mm,115.787mm)  Bottom Overlay and 
+                     Pad P6-8(93.969mm,115.037mm)  Solder Side
+   Violation between Track (94.742mm,111.887mm)(94.742mm,115.787mm)  Bottom Overlay and 
+                     Pad P6-6(93.969mm,114.237mm)  Solder Side
+   Violation between Track (94.742mm,111.887mm)(94.742mm,115.787mm)  Bottom Overlay and 
+                     Pad P6-4(93.969mm,113.437mm)  Solder Side
+   Violation between Track (94.742mm,111.887mm)(94.742mm,115.787mm)  Bottom Overlay and 
+                     Pad P6-2(93.969mm,112.637mm)  Solder Side
+   Violation between Track (91.287mm,107.887mm)(91.287mm,111.787mm)  Bottom Overlay and 
+                     Pad P7-5(92.049mm,110.237mm)  Solder Side
+   Violation between Track (91.287mm,107.887mm)(91.287mm,111.787mm)  Bottom Overlay and 
+                     Pad P7-1(92.049mm,108.637mm)  Solder Side
+   Violation between Track (91.287mm,107.887mm)(91.287mm,111.787mm)  Bottom Overlay and 
+                     Pad P7-3(92.049mm,109.437mm)  Solder Side
+   Violation between Track (91.287mm,107.887mm)(91.287mm,111.787mm)  Bottom Overlay and 
+                     Pad P7-7(92.049mm,111.037mm)  Solder Side
+   Violation between Track (94.742mm,107.887mm)(94.742mm,111.787mm)  Bottom Overlay and 
+                     Pad P7-8(93.969mm,111.037mm)  Solder Side
+   Violation between Track (94.742mm,107.887mm)(94.742mm,111.787mm)  Bottom Overlay and 
+                     Pad P7-6(93.969mm,110.237mm)  Solder Side
+   Violation between Track (94.742mm,107.887mm)(94.742mm,111.787mm)  Bottom Overlay and 
+                     Pad P7-4(93.969mm,109.437mm)  Solder Side
+   Violation between Track (94.742mm,107.887mm)(94.742mm,111.787mm)  Bottom Overlay and 
+                     Pad P7-2(93.969mm,108.637mm)  Solder Side
+   Violation between Track (91.287mm,115.912mm)(91.287mm,119.812mm)  Bottom Overlay and 
+                     Pad P5-5(92.049mm,118.262mm)  Solder Side
+   Violation between Track (91.287mm,115.912mm)(91.287mm,119.812mm)  Bottom Overlay and 
+                     Pad P5-1(92.049mm,116.662mm)  Solder Side
+   Violation between Track (91.287mm,115.912mm)(91.287mm,119.812mm)  Bottom Overlay and 
+                     Pad P5-3(92.049mm,117.462mm)  Solder Side
+   Violation between Track (91.287mm,115.912mm)(91.287mm,119.812mm)  Bottom Overlay and 
+                     Pad P5-7(92.049mm,119.062mm)  Solder Side
+   Violation between Track (94.742mm,115.912mm)(94.742mm,119.812mm)  Bottom Overlay and 
+                     Pad P5-8(93.969mm,119.062mm)  Solder Side
+   Violation between Track (94.742mm,115.912mm)(94.742mm,119.812mm)  Bottom Overlay and 
+                     Pad P5-6(93.969mm,118.262mm)  Solder Side
+   Violation between Track (94.742mm,115.912mm)(94.742mm,119.812mm)  Bottom Overlay and 
+                     Pad P5-4(93.969mm,117.462mm)  Solder Side
+   Violation between Track (94.742mm,115.912mm)(94.742mm,119.812mm)  Bottom Overlay and 
+                     Pad P5-2(93.969mm,116.662mm)  Solder Side
+   Violation between Track (91.287mm,119.912mm)(91.287mm,123.812mm)  Bottom Overlay and 
+                     Pad P4-5(92.049mm,122.262mm)  Solder Side
+   Violation between Track (91.287mm,119.912mm)(91.287mm,123.812mm)  Bottom Overlay and 
+                     Pad P4-1(92.049mm,120.662mm)  Solder Side
+   Violation between Track (91.287mm,119.912mm)(91.287mm,123.812mm)  Bottom Overlay and 
+                     Pad P4-3(92.049mm,121.462mm)  Solder Side
+   Violation between Track (91.287mm,119.912mm)(91.287mm,123.812mm)  Bottom Overlay and 
+                     Pad P4-7(92.049mm,123.062mm)  Solder Side
+   Violation between Track (94.742mm,119.912mm)(94.742mm,123.812mm)  Bottom Overlay and 
+                     Pad P4-8(93.969mm,123.062mm)  Solder Side
+   Violation between Track (94.742mm,119.912mm)(94.742mm,123.812mm)  Bottom Overlay and 
+                     Pad P4-6(93.969mm,122.262mm)  Solder Side
+   Violation between Track (94.742mm,119.912mm)(94.742mm,123.812mm)  Bottom Overlay and 
+                     Pad P4-4(93.969mm,121.462mm)  Solder Side
+   Violation between Track (94.742mm,119.912mm)(94.742mm,123.812mm)  Bottom Overlay and 
+                     Pad P4-2(93.969mm,120.662mm)  Solder Side
+   Violation between Track (89.562mm,114.536mm)(90.578mm,114.536mm)  Bottom Overlay and 
+                     Pad C2-2(89.816mm,115.425mm)  Solder Side
+   Violation between Track (89.562mm,116.314mm)(90.578mm,116.314mm)  Bottom Overlay and 
+                     Pad C2-2(89.816mm,115.425mm)  Solder Side
+   Violation between Track (90.578mm,114.536mm)(90.578mm,116.314mm)  Bottom Overlay and 
+                     Pad C2-2(89.816mm,115.425mm)  Solder Side
+   Violation between Track (87.022mm,114.536mm)(87.022mm,116.314mm)  Bottom Overlay and 
+                     Pad C2-1(87.784mm,115.425mm)  Solder Side
+   Violation between Track (87.022mm,114.536mm)(88.038mm,114.536mm)  Bottom Overlay and 
+                     Pad C2-1(87.784mm,115.425mm)  Solder Side
+   Violation between Track (87.022mm,116.314mm)(88.038mm,116.314mm)  Bottom Overlay and 
+                     Pad C2-1(87.784mm,115.425mm)  Solder Side
+   Violation between Track (86.997mm,121.486mm)(86.997mm,123.264mm)  Bottom Overlay and 
+                     Pad C1-2(87.759mm,122.375mm)  Solder Side
+   Violation between Track (86.997mm,121.486mm)(88.013mm,121.486mm)  Bottom Overlay and 
+                     Pad C1-2(87.759mm,122.375mm)  Solder Side
+   Violation between Track (86.997mm,123.264mm)(88.013mm,123.264mm)  Bottom Overlay and 
+                     Pad C1-2(87.759mm,122.375mm)  Solder Side
+   Violation between Track (89.537mm,121.486mm)(90.553mm,121.486mm)  Bottom Overlay and 
+                     Pad C1-1(89.791mm,122.375mm)  Solder Side
+   Violation between Track (89.537mm,123.264mm)(90.553mm,123.264mm)  Bottom Overlay and 
+                     Pad C1-1(89.791mm,122.375mm)  Solder Side
+   Violation between Track (90.553mm,121.486mm)(90.553mm,123.264mm)  Bottom Overlay and 
+                     Pad C1-1(89.791mm,122.375mm)  Solder Side
+   Violation between Track (87.022mm,112.461mm)(87.022mm,114.239mm)  Bottom Overlay and 
+                     Pad R2-2(87.784mm,113.35mm)  Solder Side
+   Violation between Track (87.022mm,112.461mm)(88.038mm,112.461mm)  Bottom Overlay and 
+                     Pad R2-2(87.784mm,113.35mm)  Solder Side
+   Violation between Track (87.022mm,114.239mm)(88.038mm,114.239mm)  Bottom Overlay and 
+                     Pad R2-2(87.784mm,113.35mm)  Solder Side
+   Violation between Track (89.562mm,112.461mm)(90.578mm,112.461mm)  Bottom Overlay and 
+                     Pad R2-1(89.816mm,113.35mm)  Solder Side
+   Violation between Track (89.562mm,114.239mm)(90.578mm,114.239mm)  Bottom Overlay and 
+                     Pad R2-1(89.816mm,113.35mm)  Solder Side
+   Violation between Track (90.578mm,112.461mm)(90.578mm,114.239mm)  Bottom Overlay and 
+                     Pad R2-1(89.816mm,113.35mm)  Solder Side
+   Violation between Track (91.05mm,124.75mm)(91.05mm,131.45mm)  Bottom Overlay and 
+                     Pad VR1-4(92.625mm,128.1mm)  Solder Side
+   Violation between Text "P3" (86.075mm,126.675mm)  Bottom Overlay and 
+                     Pad VR1-2(86.325mm,128.1mm)  Solder Side
+   Violation between Text "P3" (86.075mm,126.675mm)  Bottom Overlay and 
+                     Pad VR1-1(86.325mm,125.8mm)  Solder Side
+   Violation between Track (85.6mm,101.3mm)(92.3mm,101.3mm)  Bottom Overlay and 
+                     Pad VR2-4(88.95mm,99.725mm)  Solder Side
+   Violation between Track (77.412mm,128.484mm)(78.428mm,128.484mm)  Bottom Overlay and 
+                     Pad F1-1(78.301mm,129.5mm)  Solder Side
+   Violation between Track (77.412mm,130.516mm)(78.428mm,130.516mm)  Bottom Overlay and 
+                     Pad F1-1(78.301mm,129.5mm)  Solder Side
+   Violation between Track (77.412mm,128.484mm)(77.412mm,130.516mm)  Bottom Overlay and 
+                     Pad F1-1(78.301mm,129.5mm)  Solder Side
+   Violation between Track (82.238mm,128.484mm)(82.238mm,130.516mm)  Bottom Overlay and 
+                     Pad F1-2(81.349mm,129.5mm)  Solder Side
+   Violation between Track (81.222mm,128.484mm)(82.238mm,128.484mm)  Bottom Overlay and 
+                     Pad F1-2(81.349mm,129.5mm)  Solder Side
+   Violation between Track (81.222mm,130.516mm)(82.238mm,130.516mm)  Bottom Overlay and 
+                     Pad F1-2(81.349mm,129.5mm)  Solder Side
+   Violation between Track (91.111mm,99.481mm)(91.111mm,100.497mm)  Top Overlay and 
+                     Pad C8-2(92mm,100.243mm)  Component Side
+   Violation between Track (92.889mm,99.481mm)(92.889mm,100.497mm)  Top Overlay and 
+                     Pad C8-2(92mm,100.243mm)  Component Side
+   Violation between Track (91.111mm,99.481mm)(92.889mm,99.481mm)  Top Overlay and 
+                     Pad C8-2(92mm,100.243mm)  Component Side
+   Violation between Track (91.111mm,102.021mm)(91.111mm,103.037mm)  Top Overlay and 
+                     Pad C8-1(92mm,102.275mm)  Component Side
+   Violation between Track (92.889mm,102.021mm)(92.889mm,103.037mm)  Top Overlay and 
+                     Pad C8-1(92mm,102.275mm)  Component Side
+   Violation between Track (91.111mm,103.037mm)(92.889mm,103.037mm)  Top Overlay and 
+                     Pad C8-1(92mm,102.275mm)  Component Side
+   Violation between Track (89.086mm,99.431mm)(89.086mm,100.447mm)  Top Overlay and 
+                     Pad C7-2(89.975mm,100.193mm)  Component Side
+   Violation between Track (90.864mm,99.431mm)(90.864mm,100.447mm)  Top Overlay and 
+                     Pad C7-2(89.975mm,100.193mm)  Component Side
+   Violation between Track (89.086mm,99.431mm)(90.864mm,99.431mm)  Top Overlay and 
+                     Pad C7-2(89.975mm,100.193mm)  Component Side
+   Violation between Track (89.086mm,101.971mm)(89.086mm,102.987mm)  Top Overlay and 
+                     Pad C7-1(89.975mm,102.225mm)  Component Side
+   Violation between Track (90.864mm,101.971mm)(90.864mm,102.987mm)  Top Overlay and 
+                     Pad C7-1(89.975mm,102.225mm)  Component Side
+   Violation between Track (89.086mm,102.987mm)(90.864mm,102.987mm)  Top Overlay and 
+                     Pad C7-1(89.975mm,102.225mm)  Component Side
+   Violation between Track (87.061mm,99.431mm)(87.061mm,100.447mm)  Top Overlay and 
+                     Pad C10-2(87.95mm,100.193mm)  Component Side
+   Violation between Track (88.839mm,99.431mm)(88.839mm,100.447mm)  Top Overlay and 
+                     Pad C10-2(87.95mm,100.193mm)  Component Side
+   Violation between Track (87.061mm,99.431mm)(88.839mm,99.431mm)  Top Overlay and 
+                     Pad C10-2(87.95mm,100.193mm)  Component Side
+   Violation between Track (87.061mm,101.971mm)(87.061mm,102.987mm)  Top Overlay and 
+                     Pad C10-1(87.95mm,102.225mm)  Component Side
+   Violation between Track (88.839mm,101.971mm)(88.839mm,102.987mm)  Top Overlay and 
+                     Pad C10-1(87.95mm,102.225mm)  Component Side
+   Violation between Track (87.061mm,102.987mm)(88.839mm,102.987mm)  Top Overlay and 
+                     Pad C10-1(87.95mm,102.225mm)  Component Side
+   Violation between Track (85.036mm,99.431mm)(85.036mm,100.447mm)  Top Overlay and 
+                     Pad C9-2(85.925mm,100.193mm)  Component Side
+   Violation between Track (86.814mm,99.431mm)(86.814mm,100.447mm)  Top Overlay and 
+                     Pad C9-2(85.925mm,100.193mm)  Component Side
+   Violation between Track (85.036mm,99.431mm)(86.814mm,99.431mm)  Top Overlay and 
+                     Pad C9-2(85.925mm,100.193mm)  Component Side
+   Violation between Track (85.036mm,101.971mm)(85.036mm,102.987mm)  Top Overlay and 
+                     Pad C9-1(85.925mm,102.225mm)  Component Side
+   Violation between Track (86.814mm,101.971mm)(86.814mm,102.987mm)  Top Overlay and 
+                     Pad C9-1(85.925mm,102.225mm)  Component Side
+   Violation between Track (85.036mm,102.987mm)(86.814mm,102.987mm)  Top Overlay and 
+                     Pad C9-1(85.925mm,102.225mm)  Component Side
+   Violation between Track (90.686mm,128.037mm)(90.686mm,129.053mm)  Top Overlay and 
+                     Pad R3-2(91.575mm,128.291mm)  Component Side
+   Violation between Track (92.464mm,128.037mm)(92.464mm,129.053mm)  Top Overlay and 
+                     Pad R3-2(91.575mm,128.291mm)  Component Side
+   Violation between Track (90.686mm,129.053mm)(92.464mm,129.053mm)  Top Overlay and 
+                     Pad R3-2(91.575mm,128.291mm)  Component Side
+   Violation between Track (90.686mm,125.497mm)(90.686mm,126.513mm)  Top Overlay and 
+                     Pad R3-1(91.575mm,126.259mm)  Component Side
+   Violation between Track (92.464mm,125.497mm)(92.464mm,126.513mm)  Top Overlay and 
+                     Pad R3-1(91.575mm,126.259mm)  Component Side
+   Violation between Track (90.686mm,125.497mm)(92.464mm,125.497mm)  Top Overlay and 
+                     Pad R3-1(91.575mm,126.259mm)  Component Side
+   Violation between Track (88.661mm,128.037mm)(88.661mm,129.053mm)  Top Overlay and 
+                     Pad C6-2(89.55mm,128.291mm)  Component Side
+   Violation between Track (90.439mm,128.037mm)(90.439mm,129.053mm)  Top Overlay and 
+                     Pad C6-2(89.55mm,128.291mm)  Component Side
+   Violation between Track (88.661mm,129.053mm)(90.439mm,129.053mm)  Top Overlay and 
+                     Pad C6-2(89.55mm,128.291mm)  Component Side
+   Violation between Track (88.661mm,125.497mm)(88.661mm,126.513mm)  Top Overlay and 
+                     Pad C6-1(89.55mm,126.259mm)  Component Side
+   Violation between Track (90.439mm,125.497mm)(90.439mm,126.513mm)  Top Overlay and 
+                     Pad C6-1(89.55mm,126.259mm)  Component Side
+   Violation between Track (88.661mm,125.497mm)(90.439mm,125.497mm)  Top Overlay and 
+                     Pad C6-1(89.55mm,126.259mm)  Component Side
+   Violation between Track (86.586mm,128.037mm)(86.586mm,129.053mm)  Top Overlay and 
+                     Pad C5-2(87.475mm,128.291mm)  Component Side
+   Violation between Track (88.364mm,128.037mm)(88.364mm,129.053mm)  Top Overlay and 
+                     Pad C5-2(87.475mm,128.291mm)  Component Side
+   Violation between Track (86.586mm,129.053mm)(88.364mm,129.053mm)  Top Overlay and 
+                     Pad C5-2(87.475mm,128.291mm)  Component Side
+   Violation between Track (86.586mm,125.497mm)(86.586mm,126.513mm)  Top Overlay and 
+                     Pad C5-1(87.475mm,126.259mm)  Component Side
+   Violation between Track (88.364mm,125.497mm)(88.364mm,126.513mm)  Top Overlay and 
+                     Pad C5-1(87.475mm,126.259mm)  Component Side
+   Violation between Track (86.586mm,125.497mm)(88.364mm,125.497mm)  Top Overlay and 
+                     Pad C5-1(87.475mm,126.259mm)  Component Side
+   Violation between Track (82.511mm,128.062mm)(82.511mm,129.078mm)  Top Overlay and 
+                     Pad C4-2(83.4mm,128.316mm)  Component Side
+   Violation between Track (84.289mm,128.062mm)(84.289mm,129.078mm)  Top Overlay and 
+                     Pad C4-2(83.4mm,128.316mm)  Component Side
+   Violation between Track (82.511mm,129.078mm)(84.289mm,129.078mm)  Top Overlay and 
+                     Pad C4-2(83.4mm,128.316mm)  Component Side
+   Violation between Track (82.511mm,125.522mm)(82.511mm,126.538mm)  Top Overlay and 
+                     Pad C4-1(83.4mm,126.284mm)  Component Side
+   Violation between Track (84.289mm,125.522mm)(84.289mm,126.538mm)  Top Overlay and 
+                     Pad C4-1(83.4mm,126.284mm)  Component Side
+   Violation between Track (82.511mm,125.522mm)(84.289mm,125.522mm)  Top Overlay and 
+                     Pad C4-1(83.4mm,126.284mm)  Component Side
+   Violation between Track (84.561mm,128.037mm)(84.561mm,129.053mm)  Top Overlay and 
+                     Pad C3-2(85.45mm,128.291mm)  Component Side
+   Violation between Track (86.339mm,128.037mm)(86.339mm,129.053mm)  Top Overlay and 
+                     Pad C3-2(85.45mm,128.291mm)  Component Side
+   Violation between Track (84.561mm,129.053mm)(86.339mm,129.053mm)  Top Overlay and 
+                     Pad C3-2(85.45mm,128.291mm)  Component Side
+   Violation between Track (84.561mm,125.497mm)(84.561mm,126.513mm)  Top Overlay and 
+                     Pad C3-1(85.45mm,126.259mm)  Component Side
+   Violation between Track (86.339mm,125.497mm)(86.339mm,126.513mm)  Top Overlay and 
+                     Pad C3-1(85.45mm,126.259mm)  Component Side
+   Violation between Track (84.561mm,125.497mm)(86.339mm,125.497mm)  Top Overlay and 
+                     Pad C3-1(85.45mm,126.259mm)  Component Side
+   Violation between Track (92.736mm,125.497mm)(92.736mm,126.513mm)  Top Overlay and 
+                     Pad D1-2(93.625mm,126.259mm)  Component Side
+   Violation between Track (94.514mm,125.497mm)(94.514mm,126.513mm)  Top Overlay and 
+                     Pad D1-2(93.625mm,126.259mm)  Component Side
+   Violation between Track (92.736mm,125.497mm)(94.514mm,125.497mm)  Top Overlay and 
+                     Pad D1-2(93.625mm,126.259mm)  Component Side
+   Violation between Track (92.736mm,128.037mm)(92.736mm,129.053mm)  Top Overlay and 
+                     Pad D1-1(93.625mm,128.291mm)  Component Side
+   Violation between Track (94.514mm,128.037mm)(94.514mm,129.053mm)  Top Overlay and 
+                     Pad D1-1(93.625mm,128.291mm)  Component Side
+   Violation between Track (92.736mm,129.053mm)(94.514mm,129.053mm)  Top Overlay and 
+                     Pad D1-1(93.625mm,128.291mm)  Component Side
+Rule Violations :126
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Pad P3-3(81.85mm,123.3mm)  Solder Side and 
+                     Pad P3-1(81.85mm,124.1mm)  Solder Side
+   Violation between Pad P3-5(81.85mm,122.5mm)  Solder Side and 
+                     Pad P3-3(81.85mm,123.3mm)  Solder Side
+   Violation between Via (83.527mm,121.7mm) Component Side to Solder Side and 
+                     Pad P3-5(81.85mm,122.5mm)  Solder Side
+   Violation between Pad P3-7(81.85mm,121.7mm)  Solder Side and 
+                     Pad P3-5(81.85mm,122.5mm)  Solder Side
+   Violation between Via (80.173mm,120.9mm) Component Side to Solder Side and 
+                     Pad P3-7(81.85mm,121.7mm)  Solder Side
+   Violation between Pad P3-9(81.85mm,120.9mm)  Solder Side and 
+                     Pad P3-7(81.85mm,121.7mm)  Solder Side
+   Violation between Via (83.527mm,120.1mm) Component Side to Solder Side and 
+                     Pad P3-9(81.85mm,120.9mm)  Solder Side
+   Violation between Via (83.527mm,121.7mm) Component Side to Solder Side and 
+                     Pad P3-9(81.85mm,120.9mm)  Solder Side
+   Violation between Pad P3-11(81.85mm,120.1mm)  Solder Side and 
+                     Pad P3-9(81.85mm,120.9mm)  Solder Side
+   Violation between Via (80.173mm,120.9mm) Component Side to Solder Side and 
+                     Pad P3-11(81.85mm,120.1mm)  Solder Side
+   Violation between Via (80.173mm,119.3mm) Component Side to Solder Side and 
+                     Pad P3-11(81.85mm,120.1mm)  Solder Side
+   Violation between Pad P3-13(81.85mm,119.3mm)  Solder Side and 
+                     Pad P3-11(81.85mm,120.1mm)  Solder Side
+   Violation between Via (83.527mm,118.5mm) Component Side to Solder Side and 
+                     Pad P3-13(81.85mm,119.3mm)  Solder Side
+   Violation between Via (83.527mm,120.1mm) Component Side to Solder Side and 
+                     Pad P3-13(81.85mm,119.3mm)  Solder Side
+   Violation between Pad P3-15(81.85mm,118.5mm)  Solder Side and 
+                     Pad P3-13(81.85mm,119.3mm)  Solder Side
+   Violation between Via (80.173mm,117.7mm) Component Side to Solder Side and 
+                     Pad P3-15(81.85mm,118.5mm)  Solder Side
+   Violation between Via (80.173mm,119.3mm) Component Side to Solder Side and 
+                     Pad P3-15(81.85mm,118.5mm)  Solder Side
+   Violation between Pad P3-17(81.85mm,117.7mm)  Solder Side and 
+                     Pad P3-15(81.85mm,118.5mm)  Solder Side
+   Violation between Via (83.527mm,116.9mm) Component Side to Solder Side and 
+                     Pad P3-17(81.85mm,117.7mm)  Solder Side
+   Violation between Via (83.527mm,118.5mm) Component Side to Solder Side and 
+                     Pad P3-17(81.85mm,117.7mm)  Solder Side
+   Violation between Pad P3-19(81.85mm,116.9mm)  Solder Side and 
+                     Pad P3-17(81.85mm,117.7mm)  Solder Side
+   Violation between Via (80.173mm,116.1mm) Component Side to Solder Side and 
+                     Pad P3-19(81.85mm,116.9mm)  Solder Side
+   Violation between Via (80.173mm,117.7mm) Component Side to Solder Side and 
+                     Pad P3-19(81.85mm,116.9mm)  Solder Side
+   Violation between Pad P3-21(81.85mm,116.1mm)  Solder Side and 
+                     Pad P3-19(81.85mm,116.9mm)  Solder Side
+   Violation between Via (83.527mm,116.9mm) Component Side to Solder Side and 
+                     Pad P3-21(81.85mm,116.1mm)  Solder Side
+   Violation between Pad P3-23(81.85mm,115.3mm)  Solder Side and 
+                     Pad P3-21(81.85mm,116.1mm)  Solder Side
+   Violation between Via (80.173mm,114.5mm) Component Side to Solder Side and 
+                     Pad P3-23(81.85mm,115.3mm)  Solder Side
+   Violation between Via (80.173mm,116.1mm) Component Side to Solder Side and 
+                     Pad P3-23(81.85mm,115.3mm)  Solder Side
+   Violation between Pad P3-25(81.85mm,114.5mm)  Solder Side and 
+                     Pad P3-23(81.85mm,115.3mm)  Solder Side
+   Violation between Via (83.527mm,113.7mm) Component Side to Solder Side and 
+                     Pad P3-25(81.85mm,114.5mm)  Solder Side
+   Violation between Pad P3-27(81.85mm,113.7mm)  Solder Side and 
+                     Pad P3-25(81.85mm,114.5mm)  Solder Side
+   Violation between Via (80.173mm,112.9mm) Component Side to Solder Side and 
+                     Pad P3-27(81.85mm,113.7mm)  Solder Side
+   Violation between Via (80.173mm,114.5mm) Component Side to Solder Side and 
+                     Pad P3-27(81.85mm,113.7mm)  Solder Side
+   Violation between Pad P3-29(81.85mm,112.9mm)  Solder Side and 
+                     Pad P3-27(81.85mm,113.7mm)  Solder Side
+   Violation between Via (83.527mm,112.1mm) Component Side to Solder Side and 
+                     Pad P3-29(81.85mm,112.9mm)  Solder Side
+   Violation between Via (83.527mm,113.7mm) Component Side to Solder Side and 
+                     Pad P3-29(81.85mm,112.9mm)  Solder Side
+   Violation between Pad P3-31(81.85mm,112.1mm)  Solder Side and 
+                     Pad P3-29(81.85mm,112.9mm)  Solder Side
+   Violation between Via (80.173mm,112.9mm) Component Side to Solder Side and 
+                     Pad P3-31(81.85mm,112.1mm)  Solder Side
+   Violation between Via (80.173mm,111.3mm) Component Side to Solder Side and 
+                     Pad P3-31(81.85mm,112.1mm)  Solder Side
+   Violation between Pad P3-33(81.85mm,111.3mm)  Solder Side and 
+                     Pad P3-31(81.85mm,112.1mm)  Solder Side
+   Violation between Via (83.527mm,110.5mm) Component Side to Solder Side and 
+                     Pad P3-33(81.85mm,111.3mm)  Solder Side
+   Violation between Via (83.527mm,112.1mm) Component Side to Solder Side and 
+                     Pad P3-33(81.85mm,111.3mm)  Solder Side
+   Violation between Pad P3-35(81.85mm,110.5mm)  Solder Side and 
+                     Pad P3-33(81.85mm,111.3mm)  Solder Side
+   Violation between Via (80.173mm,111.3mm) Component Side to Solder Side and 
+                     Pad P3-35(81.85mm,110.5mm)  Solder Side
+   Violation between Pad P3-37(81.85mm,109.7mm)  Solder Side and 
+                     Pad P3-35(81.85mm,110.5mm)  Solder Side
+   Violation between Via (83.527mm,110.5mm) Component Side to Solder Side and 
+                     Pad P3-37(81.85mm,109.7mm)  Solder Side
+   Violation between Pad P3-39(81.85mm,108.9mm)  Solder Side and 
+                     Pad P3-37(81.85mm,109.7mm)  Solder Side
+   Violation between Pad P3-41(81.85mm,108.1mm)  Solder Side and 
+                     Pad P3-39(81.85mm,108.9mm)  Solder Side
+   Violation between Pad P3-43(81.85mm,107.3mm)  Solder Side and 
+                     Pad P3-41(81.85mm,108.1mm)  Solder Side
+   Violation between Pad P3-45(81.85mm,106.5mm)  Solder Side and 
+                     Pad P3-43(81.85mm,107.3mm)  Solder Side
+   Violation between Pad P3-47(81.85mm,105.7mm)  Solder Side and 
+                     Pad P3-45(81.85mm,106.5mm)  Solder Side
+   Violation between Pad P3-49(81.85mm,104.9mm)  Solder Side and 
+                     Pad P3-47(81.85mm,105.7mm)  Solder Side
+   Violation between Pad P3-51(81.85mm,104.1mm)  Solder Side and 
+                     Pad P3-49(81.85mm,104.9mm)  Solder Side
+   Violation between Pad P3-53(81.85mm,103.3mm)  Solder Side and 
+                     Pad P3-51(81.85mm,104.1mm)  Solder Side
+   Violation between Pad P3-55(81.85mm,102.5mm)  Solder Side and 
+                     Pad P3-53(81.85mm,103.3mm)  Solder Side
+   Violation between Pad P3-57(81.85mm,101.7mm)  Solder Side and 
+                     Pad P3-55(81.85mm,102.5mm)  Solder Side
+   Violation between Pad P3-59(81.85mm,100.9mm)  Solder Side and 
+                     Pad P3-57(81.85mm,101.7mm)  Solder Side
+   Violation between Pad P3-4(78.05mm,123.3mm)  Solder Side and 
+                     Pad P3-2(78.05mm,124.1mm)  Solder Side
+   Violation between Pad P3-6(78.05mm,122.5mm)  Solder Side and 
+                     Pad P3-4(78.05mm,123.3mm)  Solder Side
+   Violation between Pad P3-8(78.05mm,121.7mm)  Solder Side and 
+                     Pad P3-6(78.05mm,122.5mm)  Solder Side
+   Violation between Pad P3-10(78.05mm,120.9mm)  Solder Side and 
+                     Pad P3-8(78.05mm,121.7mm)  Solder Side
+   Violation between Pad P3-12(78.05mm,120.1mm)  Solder Side and 
+                     Pad P3-10(78.05mm,120.9mm)  Solder Side
+   Violation between Pad P3-14(78.05mm,119.3mm)  Solder Side and 
+                     Pad P3-12(78.05mm,120.1mm)  Solder Side
+   Violation between Pad P3-16(78.05mm,118.5mm)  Solder Side and 
+                     Pad P3-14(78.05mm,119.3mm)  Solder Side
+   Violation between Pad P3-18(78.05mm,117.7mm)  Solder Side and 
+                     Pad P3-16(78.05mm,118.5mm)  Solder Side
+   Violation between Pad P3-20(78.05mm,116.9mm)  Solder Side and 
+                     Pad P3-18(78.05mm,117.7mm)  Solder Side
+   Violation between Pad P3-22(78.05mm,116.1mm)  Solder Side and 
+                     Pad P3-20(78.05mm,116.9mm)  Solder Side
+   Violation between Pad P3-24(78.05mm,115.3mm)  Solder Side and 
+                     Pad P3-22(78.05mm,116.1mm)  Solder Side
+   Violation between Pad P3-26(78.05mm,114.5mm)  Solder Side and 
+                     Pad P3-24(78.05mm,115.3mm)  Solder Side
+   Violation between Pad P3-28(78.05mm,113.7mm)  Solder Side and 
+                     Pad P3-26(78.05mm,114.5mm)  Solder Side
+   Violation between Pad P3-30(78.05mm,112.9mm)  Solder Side and 
+                     Pad P3-28(78.05mm,113.7mm)  Solder Side
+   Violation between Pad P3-32(78.05mm,112.1mm)  Solder Side and 
+                     Pad P3-30(78.05mm,112.9mm)  Solder Side
+   Violation between Pad P3-34(78.05mm,111.3mm)  Solder Side and 
+                     Pad P3-32(78.05mm,112.1mm)  Solder Side
+   Violation between Pad P3-36(78.05mm,110.5mm)  Solder Side and 
+                     Pad P3-34(78.05mm,111.3mm)  Solder Side
+   Violation between Pad P3-38(78.05mm,109.7mm)  Solder Side and 
+                     Pad P3-36(78.05mm,110.5mm)  Solder Side
+   Violation between Pad P3-40(78.05mm,108.9mm)  Solder Side and 
+                     Pad P3-38(78.05mm,109.7mm)  Solder Side
+   Violation between Pad P3-42(78.05mm,108.1mm)  Solder Side and 
+                     Pad P3-40(78.05mm,108.9mm)  Solder Side
+   Violation between Pad P3-44(78.05mm,107.3mm)  Solder Side and 
+                     Pad P3-42(78.05mm,108.1mm)  Solder Side
+   Violation between Pad P3-46(78.05mm,106.5mm)  Solder Side and 
+                     Pad P3-44(78.05mm,107.3mm)  Solder Side
+   Violation between Pad P3-48(78.05mm,105.7mm)  Solder Side and 
+                     Pad P3-46(78.05mm,106.5mm)  Solder Side
+   Violation between Pad P3-50(78.05mm,104.9mm)  Solder Side and 
+                     Pad P3-48(78.05mm,105.7mm)  Solder Side
+   Violation between Pad P3-52(78.05mm,104.1mm)  Solder Side and 
+                     Pad P3-50(78.05mm,104.9mm)  Solder Side
+   Violation between Pad P3-54(78.05mm,103.3mm)  Solder Side and 
+                     Pad P3-52(78.05mm,104.1mm)  Solder Side
+   Violation between Pad P3-56(78.05mm,102.5mm)  Solder Side and 
+                     Pad P3-54(78.05mm,103.3mm)  Solder Side
+   Violation between Pad P3-58(78.05mm,101.7mm)  Solder Side and 
+                     Pad P3-56(78.05mm,102.5mm)  Solder Side
+   Violation between Pad P3-60(78.05mm,100.9mm)  Solder Side and 
+                     Pad P3-58(78.05mm,101.7mm)  Solder Side
+   Violation between Pad P2-3(71.85mm,123.3mm)  Solder Side and 
+                     Pad P2-1(71.85mm,124.1mm)  Solder Side
+   Violation between Pad P2-5(71.85mm,122.5mm)  Solder Side and 
+                     Pad P2-3(71.85mm,123.3mm)  Solder Side
+   Violation between Pad P2-7(71.85mm,121.7mm)  Solder Side and 
+                     Pad P2-5(71.85mm,122.5mm)  Solder Side
+   Violation between Pad P2-9(71.85mm,120.9mm)  Solder Side and 
+                     Pad P2-7(71.85mm,121.7mm)  Solder Side
+   Violation between Pad P2-11(71.85mm,120.1mm)  Solder Side and 
+                     Pad P2-9(71.85mm,120.9mm)  Solder Side
+   Violation between Pad P2-13(71.85mm,119.3mm)  Solder Side and 
+                     Pad P2-11(71.85mm,120.1mm)  Solder Side
+   Violation between Pad P2-15(71.85mm,118.5mm)  Solder Side and 
+                     Pad P2-13(71.85mm,119.3mm)  Solder Side
+   Violation between Pad P2-17(71.85mm,117.7mm)  Solder Side and 
+                     Pad P2-15(71.85mm,118.5mm)  Solder Side
+   Violation between Pad P2-19(71.85mm,116.9mm)  Solder Side and 
+                     Pad P2-17(71.85mm,117.7mm)  Solder Side
+   Violation between Pad P2-21(71.85mm,116.1mm)  Solder Side and 
+                     Pad P2-19(71.85mm,116.9mm)  Solder Side
+   Violation between Pad P2-23(71.85mm,115.3mm)  Solder Side and 
+                     Pad P2-21(71.85mm,116.1mm)  Solder Side
+   Violation between Pad P2-25(71.85mm,114.5mm)  Solder Side and 
+                     Pad P2-23(71.85mm,115.3mm)  Solder Side
+   Violation between Pad P2-27(71.85mm,113.7mm)  Solder Side and 
+                     Pad P2-25(71.85mm,114.5mm)  Solder Side
+   Violation between Pad P2-29(71.85mm,112.9mm)  Solder Side and 
+                     Pad P2-27(71.85mm,113.7mm)  Solder Side
+   Violation between Pad P2-31(71.85mm,112.1mm)  Solder Side and 
+                     Pad P2-29(71.85mm,112.9mm)  Solder Side
+   Violation between Pad P2-33(71.85mm,111.3mm)  Solder Side and 
+                     Pad P2-31(71.85mm,112.1mm)  Solder Side
+   Violation between Pad P2-35(71.85mm,110.5mm)  Solder Side and 
+                     Pad P2-33(71.85mm,111.3mm)  Solder Side
+   Violation between Pad P2-37(71.85mm,109.7mm)  Solder Side and 
+                     Pad P2-35(71.85mm,110.5mm)  Solder Side
+   Violation between Pad P2-39(71.85mm,108.9mm)  Solder Side and 
+                     Pad P2-37(71.85mm,109.7mm)  Solder Side
+   Violation between Pad P2-41(71.85mm,108.1mm)  Solder Side and 
+                     Pad P2-39(71.85mm,108.9mm)  Solder Side
+   Violation between Pad P2-43(71.85mm,107.3mm)  Solder Side and 
+                     Pad P2-41(71.85mm,108.1mm)  Solder Side
+   Violation between Pad P2-45(71.85mm,106.5mm)  Solder Side and 
+                     Pad P2-43(71.85mm,107.3mm)  Solder Side
+   Violation between Pad P2-47(71.85mm,105.7mm)  Solder Side and 
+                     Pad P2-45(71.85mm,106.5mm)  Solder Side
+   Violation between Pad P2-49(71.85mm,104.9mm)  Solder Side and 
+                     Pad P2-47(71.85mm,105.7mm)  Solder Side
+   Violation between Pad P2-51(71.85mm,104.1mm)  Solder Side and 
+                     Pad P2-49(71.85mm,104.9mm)  Solder Side
+   Violation between Pad P2-53(71.85mm,103.3mm)  Solder Side and 
+                     Pad P2-51(71.85mm,104.1mm)  Solder Side
+   Violation between Pad P2-55(71.85mm,102.5mm)  Solder Side and 
+                     Pad P2-53(71.85mm,103.3mm)  Solder Side
+   Violation between Pad P2-57(71.85mm,101.7mm)  Solder Side and 
+                     Pad P2-55(71.85mm,102.5mm)  Solder Side
+   Violation between Pad P2-59(71.85mm,100.9mm)  Solder Side and 
+                     Pad P2-57(71.85mm,101.7mm)  Solder Side
+   Violation between Pad P2-4(68.05mm,123.3mm)  Solder Side and 
+                     Pad P2-2(68.05mm,124.1mm)  Solder Side
+   Violation between Pad P2-6(68.05mm,122.5mm)  Solder Side and 
+                     Pad P2-4(68.05mm,123.3mm)  Solder Side
+   Violation between Pad P2-8(68.05mm,121.7mm)  Solder Side and 
+                     Pad P2-6(68.05mm,122.5mm)  Solder Side
+   Violation between Pad P2-10(68.05mm,120.9mm)  Solder Side and 
+                     Pad P2-8(68.05mm,121.7mm)  Solder Side
+   Violation between Pad P2-12(68.05mm,120.1mm)  Solder Side and 
+                     Pad P2-10(68.05mm,120.9mm)  Solder Side
+   Violation between Pad P2-14(68.05mm,119.3mm)  Solder Side and 
+                     Pad P2-12(68.05mm,120.1mm)  Solder Side
+   Violation between Pad P2-16(68.05mm,118.5mm)  Solder Side and 
+                     Pad P2-14(68.05mm,119.3mm)  Solder Side
+   Violation between Pad P2-18(68.05mm,117.7mm)  Solder Side and 
+                     Pad P2-16(68.05mm,118.5mm)  Solder Side
+   Violation between Pad P2-20(68.05mm,116.9mm)  Solder Side and 
+                     Pad P2-18(68.05mm,117.7mm)  Solder Side
+   Violation between Pad P2-22(68.05mm,116.1mm)  Solder Side and 
+                     Pad P2-20(68.05mm,116.9mm)  Solder Side
+   Violation between Pad P2-24(68.05mm,115.3mm)  Solder Side and 
+                     Pad P2-22(68.05mm,116.1mm)  Solder Side
+   Violation between Pad P2-26(68.05mm,114.5mm)  Solder Side and 
+                     Pad P2-24(68.05mm,115.3mm)  Solder Side
+   Violation between Pad P2-28(68.05mm,113.7mm)  Solder Side and 
+                     Pad P2-26(68.05mm,114.5mm)  Solder Side
+   Violation between Pad P2-30(68.05mm,112.9mm)  Solder Side and 
+                     Pad P2-28(68.05mm,113.7mm)  Solder Side
+   Violation between Pad P2-32(68.05mm,112.1mm)  Solder Side and 
+                     Pad P2-30(68.05mm,112.9mm)  Solder Side
+   Violation between Pad P2-34(68.05mm,111.3mm)  Solder Side and 
+                     Pad P2-32(68.05mm,112.1mm)  Solder Side
+   Violation between Pad P2-36(68.05mm,110.5mm)  Solder Side and 
+                     Pad P2-34(68.05mm,111.3mm)  Solder Side
+   Violation between Pad P2-38(68.05mm,109.7mm)  Solder Side and 
+                     Pad P2-36(68.05mm,110.5mm)  Solder Side
+   Violation between Pad P2-40(68.05mm,108.9mm)  Solder Side and 
+                     Pad P2-38(68.05mm,109.7mm)  Solder Side
+   Violation between Pad P2-42(68.05mm,108.1mm)  Solder Side and 
+                     Pad P2-40(68.05mm,108.9mm)  Solder Side
+   Violation between Pad P2-44(68.05mm,107.3mm)  Solder Side and 
+                     Pad P2-42(68.05mm,108.1mm)  Solder Side
+   Violation between Pad P2-46(68.05mm,106.5mm)  Solder Side and 
+                     Pad P2-44(68.05mm,107.3mm)  Solder Side
+   Violation between Pad P2-48(68.05mm,105.7mm)  Solder Side and 
+                     Pad P2-46(68.05mm,106.5mm)  Solder Side
+   Violation between Pad P2-50(68.05mm,104.9mm)  Solder Side and 
+                     Pad P2-48(68.05mm,105.7mm)  Solder Side
+   Violation between Pad P2-52(68.05mm,104.1mm)  Solder Side and 
+                     Pad P2-50(68.05mm,104.9mm)  Solder Side
+   Violation between Pad P2-54(68.05mm,103.3mm)  Solder Side and 
+                     Pad P2-52(68.05mm,104.1mm)  Solder Side
+   Violation between Pad P2-56(68.05mm,102.5mm)  Solder Side and 
+                     Pad P2-54(68.05mm,103.3mm)  Solder Side
+   Violation between Pad P2-58(68.05mm,101.7mm)  Solder Side and 
+                     Pad P2-56(68.05mm,102.5mm)  Solder Side
+   Violation between Pad P2-60(68.05mm,100.9mm)  Solder Side and 
+                     Pad P2-58(68.05mm,101.7mm)  Solder Side
+   Violation between Pad P6-3(92.049mm,113.437mm)  Solder Side and 
+                     Pad P6-5(92.049mm,114.237mm)  Solder Side
+   Violation between Pad P6-7(92.049mm,115.037mm)  Solder Side and 
+                     Pad P6-5(92.049mm,114.237mm)  Solder Side
+   Violation between Pad P6-3(92.049mm,113.437mm)  Solder Side and 
+                     Pad P6-1(92.049mm,112.637mm)  Solder Side
+   Violation between Via (93.969mm,114.237mm) Component Side to Solder Side and 
+                     Pad P6-8(93.969mm,115.037mm)  Solder Side
+   Violation between Pad P6-6(93.969mm,114.237mm)  Solder Side and 
+                     Pad P6-8(93.969mm,115.037mm)  Solder Side
+   Violation between Via (93.969mm,115.037mm) Component Side to Solder Side and 
+                     Pad P6-6(93.969mm,114.237mm)  Solder Side
+   Violation between Via (93.969mm,113.437mm) Component Side to Solder Side and 
+                     Pad P6-6(93.969mm,114.237mm)  Solder Side
+   Violation between Pad P6-4(93.969mm,113.437mm)  Solder Side and 
+                     Pad P6-6(93.969mm,114.237mm)  Solder Side
+   Violation between Via (93.969mm,112.637mm) Component Side to Solder Side and 
+                     Pad P6-4(93.969mm,113.437mm)  Solder Side
+   Violation between Via (93.969mm,114.237mm) Component Side to Solder Side and 
+                     Pad P6-4(93.969mm,113.437mm)  Solder Side
+   Violation between Pad P6-2(93.969mm,112.637mm)  Solder Side and 
+                     Pad P6-4(93.969mm,113.437mm)  Solder Side
+   Violation between Via (93.969mm,113.437mm) Component Side to Solder Side and 
+                     Pad P6-2(93.969mm,112.637mm)  Solder Side
+   Violation between Pad P7-7(92.049mm,111.037mm)  Solder Side and 
+                     Pad P7-5(92.049mm,110.237mm)  Solder Side
+   Violation between Pad P7-3(92.049mm,109.437mm)  Solder Side and 
+                     Pad P7-5(92.049mm,110.237mm)  Solder Side
+   Violation between Pad P7-3(92.049mm,109.437mm)  Solder Side and 
+                     Pad P7-1(92.049mm,108.637mm)  Solder Side
+   Violation between Via (93.969mm,110.237mm) Component Side to Solder Side and 
+                     Pad P7-8(93.969mm,111.037mm)  Solder Side
+   Violation between Pad P7-6(93.969mm,110.237mm)  Solder Side and 
+                     Pad P7-8(93.969mm,111.037mm)  Solder Side
+   Violation between Via (93.969mm,111.037mm) Component Side to Solder Side and 
+                     Pad P7-6(93.969mm,110.237mm)  Solder Side
+   Violation between Pad P7-4(93.969mm,109.437mm)  Solder Side and 
+                     Pad P7-6(93.969mm,110.237mm)  Solder Side
+   Violation between Via (93.969mm,110.237mm) Component Side to Solder Side and 
+                     Pad P7-4(93.969mm,109.437mm)  Solder Side
+   Violation between Pad P7-2(93.969mm,108.637mm)  Solder Side and 
+                     Pad P7-4(93.969mm,109.437mm)  Solder Side
+   Violation between Pad P5-3(92.049mm,117.462mm)  Solder Side and 
+                     Pad P5-5(92.049mm,118.262mm)  Solder Side
+   Violation between Pad P5-7(92.049mm,119.062mm)  Solder Side and 
+                     Pad P5-5(92.049mm,118.262mm)  Solder Side
+   Violation between Pad P5-3(92.049mm,117.462mm)  Solder Side and 
+                     Pad P5-1(92.049mm,116.662mm)  Solder Side
+   Violation between Via (93.969mm,118.262mm) Component Side to Solder Side and 
+                     Pad P5-8(93.969mm,119.062mm)  Solder Side
+   Violation between Pad P5-6(93.969mm,118.262mm)  Solder Side and 
+                     Pad P5-8(93.969mm,119.062mm)  Solder Side
+   Violation between Via (93.969mm,119.062mm) Component Side to Solder Side and 
+                     Pad P5-6(93.969mm,118.262mm)  Solder Side
+   Violation between Via (93.969mm,117.462mm) Component Side to Solder Side and 
+                     Pad P5-6(93.969mm,118.262mm)  Solder Side
+   Violation between Pad P5-4(93.969mm,117.462mm)  Solder Side and 
+                     Pad P5-6(93.969mm,118.262mm)  Solder Side
+   Violation between Via (93.969mm,116.662mm) Component Side to Solder Side and 
+                     Pad P5-4(93.969mm,117.462mm)  Solder Side
+   Violation between Via (93.969mm,118.262mm) Component Side to Solder Side and 
+                     Pad P5-4(93.969mm,117.462mm)  Solder Side
+   Violation between Pad P5-2(93.969mm,116.662mm)  Solder Side and 
+                     Pad P5-4(93.969mm,117.462mm)  Solder Side
+   Violation between Via (93.969mm,117.462mm) Component Side to Solder Side and 
+                     Pad P5-2(93.969mm,116.662mm)  Solder Side
+   Violation between Pad P4-3(92.049mm,121.462mm)  Solder Side and 
+                     Pad P4-5(92.049mm,122.262mm)  Solder Side
+   Violation between Pad P4-7(92.049mm,123.062mm)  Solder Side and 
+                     Pad P4-5(92.049mm,122.262mm)  Solder Side
+   Violation between Pad P4-3(92.049mm,121.462mm)  Solder Side and 
+                     Pad P4-1(92.049mm,120.662mm)  Solder Side
+   Violation between Via (93.969mm,122.262mm) Component Side to Solder Side and 
+                     Pad P4-8(93.969mm,123.062mm)  Solder Side
+   Violation between Pad P4-6(93.969mm,122.262mm)  Solder Side and 
+                     Pad P4-8(93.969mm,123.062mm)  Solder Side
+   Violation between Via (93.969mm,123.062mm) Component Side to Solder Side and 
+                     Pad P4-6(93.969mm,122.262mm)  Solder Side
+   Violation between Via (93.969mm,121.462mm) Component Side to Solder Side and 
+                     Pad P4-6(93.969mm,122.262mm)  Solder Side
+   Violation between Pad P4-4(93.969mm,121.462mm)  Solder Side and 
+                     Pad P4-6(93.969mm,122.262mm)  Solder Side
+   Violation between Via (93.969mm,120.662mm) Component Side to Solder Side and 
+                     Pad P4-4(93.969mm,121.462mm)  Solder Side
+   Violation between Via (93.969mm,122.262mm) Component Side to Solder Side and 
+                     Pad P4-4(93.969mm,121.462mm)  Solder Side
+   Violation between Pad P4-2(93.969mm,120.662mm)  Solder Side and 
+                     Pad P4-4(93.969mm,121.462mm)  Solder Side
+   Violation between Via (93.969mm,121.462mm) Component Side to Solder Side and 
+                     Pad P4-2(93.969mm,120.662mm)  Solder Side
+   Violation between Via (86.325mm,125.8mm) Component Side to Solder Side and 
+                     Pad C5-1(87.475mm,126.259mm)  Component Side
+   Violation between Pad U2-6(85.4mm,112.171mm)  Component Side and 
+                     Pad U2-5(85.4mm,112.821mm)  Component Side
+   Violation between Pad U2-4(85.4mm,113.471mm)  Component Side and 
+                     Pad U2-5(85.4mm,112.821mm)  Component Side
+   Violation between Pad U2-9(85.4mm,110.221mm)  Component Side and 
+                     Pad U2-8(85.4mm,110.871mm)  Component Side
+   Violation between Pad U2-7(85.4mm,111.521mm)  Component Side and 
+                     Pad U2-8(85.4mm,110.871mm)  Component Side
+   Violation between Pad U2-10(85.4mm,109.571mm)  Component Side and 
+                     Pad U2-9(85.4mm,110.221mm)  Component Side
+   Violation between Pad U2-16(91.7mm,112.821mm)  Component Side and 
+                     Pad U2-15(91.7mm,112.171mm)  Component Side
+   Violation between Pad U2-14(91.7mm,111.521mm)  Component Side and 
+                     Pad U2-15(91.7mm,112.171mm)  Component Side
+   Violation between Pad U2-13(91.7mm,110.871mm)  Component Side and 
+                     Pad U2-12(91.7mm,110.221mm)  Component Side
+   Violation between Pad U2-11(91.7mm,109.571mm)  Component Side and 
+                     Pad U2-12(91.7mm,110.221mm)  Component Side
+   Violation between Pad U2-13(91.7mm,110.871mm)  Component Side and 
+                     Pad U2-14(91.7mm,111.521mm)  Component Side
+   Violation between Via (85.4mm,114.771mm) Component Side to Solder Side and 
+                     Pad U2-1(85.4mm,115.421mm)  Component Side
+   Violation between Pad U2-2(85.4mm,114.771mm)  Component Side and 
+                     Pad U2-1(85.4mm,115.421mm)  Component Side
+   Violation between Pad U2-18(91.7mm,114.121mm)  Component Side and 
+                     Pad U2-19(91.7mm,114.771mm)  Component Side
+   Violation between Pad U2-20(91.7mm,115.421mm)  Component Side and 
+                     Pad U2-19(91.7mm,114.771mm)  Component Side
+   Violation between Pad U2-3(85.4mm,114.121mm)  Component Side and 
+                     Pad U2-4(85.4mm,113.471mm)  Component Side
+   Violation between Pad U2-7(85.4mm,111.521mm)  Component Side and 
+                     Pad U2-6(85.4mm,112.171mm)  Component Side
+   Violation between Pad U2-3(85.4mm,114.121mm)  Component Side and 
+                     Pad U2-2(85.4mm,114.771mm)  Component Side
+   Violation between Via (85.4mm,114.771mm) Component Side to Solder Side and 
+                     Pad U2-3(85.4mm,114.121mm)  Component Side
+   Violation between Pad U2-16(91.7mm,112.821mm)  Component Side and 
+                     Pad U2-17(91.7mm,113.471mm)  Component Side
+   Violation between Pad U2-18(91.7mm,114.121mm)  Component Side and 
+                     Pad U2-17(91.7mm,113.471mm)  Component Side
+   Violation between Via (91.7mm,114.771mm) Component Side to Solder Side and 
+                     Pad U2-20(91.7mm,115.421mm)  Component Side
+   Violation between Via (91.7mm,114.771mm) Component Side to Solder Side and 
+                     Pad U2-18(91.7mm,114.121mm)  Component Side
+   Violation between Pad U1-6(85.4mm,119.121mm)  Component Side and 
+                     Pad U1-5(85.4mm,119.771mm)  Component Side
+   Violation between Pad U1-4(85.4mm,120.421mm)  Component Side and 
+                     Pad U1-5(85.4mm,119.771mm)  Component Side
+   Violation between Pad U1-9(85.4mm,117.171mm)  Component Side and 
+                     Pad U1-8(85.4mm,117.821mm)  Component Side
+   Violation between Pad U1-7(85.4mm,118.471mm)  Component Side and 
+                     Pad U1-8(85.4mm,117.821mm)  Component Side
+   Violation between Pad U1-10(85.4mm,116.521mm)  Component Side and 
+                     Pad U1-9(85.4mm,117.171mm)  Component Side
+   Violation between Pad U1-14(91.7mm,118.471mm)  Component Side and 
+                     Pad U1-15(91.7mm,119.121mm)  Component Side
+   Violation between Pad U1-16(91.7mm,119.771mm)  Component Side and 
+                     Pad U1-15(91.7mm,119.121mm)  Component Side
+   Violation between Pad U1-11(91.7mm,116.521mm)  Component Side and 
+                     Pad U1-12(91.7mm,117.171mm)  Component Side
+   Violation between Pad U1-13(91.7mm,117.821mm)  Component Side and 
+                     Pad U1-12(91.7mm,117.171mm)  Component Side
+   Violation between Pad U1-13(91.7mm,117.821mm)  Component Side and 
+                     Pad U1-14(91.7mm,118.471mm)  Component Side
+   Violation between Via (85.4mm,121.721mm) Component Side to Solder Side and 
+                     Pad U1-1(85.4mm,122.371mm)  Component Side
+   Violation between Pad U1-2(85.4mm,121.721mm)  Component Side and 
+                     Pad U1-1(85.4mm,122.371mm)  Component Side
+   Violation between Pad U1-18(91.7mm,121.071mm)  Component Side and 
+                     Pad U1-19(91.7mm,121.721mm)  Component Side
+   Violation between Pad U1-20(91.7mm,122.371mm)  Component Side and 
+                     Pad U1-19(91.7mm,121.721mm)  Component Side
+   Violation between Pad U1-3(85.4mm,121.071mm)  Component Side and 
+                     Pad U1-4(85.4mm,120.421mm)  Component Side
+   Violation between Pad U1-7(85.4mm,118.471mm)  Component Side and 
+                     Pad U1-6(85.4mm,119.121mm)  Component Side
+   Violation between Pad U1-3(85.4mm,121.071mm)  Component Side and 
+                     Pad U1-2(85.4mm,121.721mm)  Component Side
+   Violation between Via (85.4mm,121.721mm) Component Side to Solder Side and 
+                     Pad U1-3(85.4mm,121.071mm)  Component Side
+   Violation between Pad U1-18(91.7mm,121.071mm)  Component Side and 
+                     Pad U1-17(91.7mm,120.421mm)  Component Side
+   Violation between Pad U1-16(91.7mm,119.771mm)  Component Side and 
+                     Pad U1-17(91.7mm,120.421mm)  Component Side
+   Violation between Via (91.7mm,121.721mm) Component Side to Solder Side and 
+                     Pad U1-20(91.7mm,122.371mm)  Component Side
+   Violation between Via (91.7mm,121.721mm) Component Side to Solder Side and 
+                     Pad U1-18(91.7mm,121.071mm)  Component Side
+   Violation between Via (93.969mm,111.037mm) Component Side to Solder Side and 
+                     Via (93.969mm,110.237mm) Component Side to Solder Side
+   Violation between Via (93.969mm,113.437mm) Component Side to Solder Side and 
+                     Via (93.969mm,112.637mm) Component Side to Solder Side
+   Violation between Via (93.969mm,114.237mm) Component Side to Solder Side and 
+                     Via (93.969mm,113.437mm) Component Side to Solder Side
+   Violation between Via (93.969mm,115.037mm) Component Side to Solder Side and 
+                     Via (93.969mm,114.237mm) Component Side to Solder Side
+   Violation between Via (93.969mm,117.462mm) Component Side to Solder Side and 
+                     Via (93.969mm,116.662mm) Component Side to Solder Side
+   Violation between Via (93.969mm,118.262mm) Component Side to Solder Side and 
+                     Via (93.969mm,117.462mm) Component Side to Solder Side
+   Violation between Via (93.969mm,119.062mm) Component Side to Solder Side and 
+                     Via (93.969mm,118.262mm) Component Side to Solder Side
+   Violation between Via (93.969mm,121.462mm) Component Side to Solder Side and 
+                     Via (93.969mm,120.662mm) Component Side to Solder Side
+   Violation between Via (93.969mm,122.262mm) Component Side to Solder Side and 
+                     Via (93.969mm,121.462mm) Component Side to Solder Side
+   Violation between Via (93.969mm,123.062mm) Component Side to Solder Side and 
+                     Via (93.969mm,122.262mm) Component Side to Solder Side
+Rule Violations :244
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint (3mm > 2.54mm) : Via (75mm,130mm) Component Side to Solder Side
+   Violation between Hole Size Constraint (3mm > 2.54mm) : Via (75mm,95mm) Component Side to Solder Side
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=10mm) (Max=11mm) (InNetClass('Class1'))
+Rule Violations :0
+
+
+Violations Detected : 425
+Time Elapsed        : 00:00:02
